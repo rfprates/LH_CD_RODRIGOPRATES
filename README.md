@@ -8,7 +8,7 @@ Abaixo segue um passo a passo para a instalação dos requisitos necessários e 
 
 Este projeto foi todo desenvolvido utilizando o VS CODE. Portanto, se torna necessário a instalação deste ou de algum outro interpretador de código para o seu correto funcionamento. Em seguida, foram instaladas as extensões do Python e Jupyter Notebook, além do Anaconda para executar alguns comandos no terminal.
 
-OBS: Versão do Python utilizada no projeto = 3.11.5
+OBS: Versão do Python utilizada no projeto = 3.11.2
 
 ## Instalação das bibliotecas
 
@@ -18,4 +18,4 @@ Feita as instalações dos requisitos base acima, agora é necessário instalar 
 pip install -r requirements.txt
 ```
 
-Instaladas tais bibliotecas dentro do ambiente, agora pode-se rodar as linhas de código presentes nos arquivos 'EDA.ipynb' e 'Modelling.ipynb'.
+Instaladas tais bibliotecas dentro do ambiente, agora pode-se rodar as linhas de código presentes nos arquivos notebooks 'EDA.ipynb' (dentro da pasta reports_eda) e 'Modelling.ipynb' (dentro da pasta modelling).
