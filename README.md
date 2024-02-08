@@ -18,4 +18,4 @@ Feita as instalações dos requisitos base acima, agora é necessário instalar 
 pip install -r requirements.txt
 ```
 
-Instaladas tais bibliotecas dentro do ambiente, agora pode-se rodar as linhas de código presentes nos arquivos notebooks 'EDA.ipynb' (dentro da pasta 'reports_eda') e 'Modelling.ipynb' (dentro da pasta 'modelling'). Nestes notebooks estão todos os códigos desenvolvidos para a resolução deste desafio, desde as análises descritiva e estatísticas até a modelagem e cálculo para os novos dados de entrada.
+Instaladas tais bibliotecas dentro do ambiente, agora pode-se rodar as linhas de código presentes nos arquivos notebooks 'EDA.ipynb' (dentro da pasta 'reports_eda') e 'Modelling.ipynb' (dentro da pasta 'modelling'). Nestes notebooks estão todos os códigos desenvolvidos para a resolução deste desafio, desde as análises descritivas e estatísticas até a modelagem e cálculo para os novos dados de entrada.
